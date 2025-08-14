@@ -1,5 +1,6 @@
 # Extended-Spawners
 The source of the Extended Spawners mod on Modrinth
+https://modrinth.com/mod/extended-spawners
 
 **Version:** 1.0.0  
 **Minecraft:** 1.21.4  
