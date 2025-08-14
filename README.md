@@ -3,7 +3,7 @@ The source of the Extended Spawners mod on Modrinth
 
 **Version:** 1.0.0  
 **Minecraft:** 1.21.4  
-**Fabric API:** 0.17.2  
+**Fabric Loader:** 0.17.2
 
 ---
 
